@@ -1,0 +1,126 @@
+{
+  "receitas": [
+    {
+      "id": "1",
+      "tempoPreparo": "45 min",
+      "porcoes": 20,
+      "dificuldade": 2,
+      "nome": "Bolo de Cenoura e chocolate",
+      "ingredientes": [
+        {
+          "nome": "Cenoura"
+        },
+        {
+          "nome": "Ovo"
+        },
+        {
+          "nome": "Farinha"
+        },
+        {
+          "nome": "Açucar"
+        },
+        {
+          "nome": "Fermento"
+        }
+      ],
+      "modo": [
+        "Bater tudo no liquidificador exceto o fermento",
+        "Acrescentar o fermento e misturar",
+        "Assar em forno médio por 40 minutos"
+      ]
+    },
+    {
+      "id": "2",
+      "tempoPreparo": "35 min",
+      "porcoes": 5,
+      "dificuldade": 3,
+      "nome": "Arroz Carreteiro",
+      "ingredientes": [
+        {
+          "nome": "Ovo"
+        },
+        {
+          "nome": "Carne"
+        },
+        {
+          "nome": "Arroz"
+        },
+        {
+          "nome": "Sal e temperos"
+        }
+      ],
+      "modo": [
+        "Frite a carne temperada e reserve",
+        "Refoque a cebola e o alho e o arroz",
+        "junte a carne, molho de tomate e água",
+        "cozinhe em fogo médio por 25 minutos acrescentando água se necessário"
+      ]
+    }
+  ],
+  "ingredientes": [
+    {
+      "id": 1,
+      "nome": "Cenoura"
+    },
+    {
+      "id": 2,
+      "nome": "Ovo"
+    },
+    {
+      "id": 3,
+      "nome": "Farinha"
+    },
+    {
+      "id": 4,
+      "nome": "Açucar"
+    },
+    {
+      "id": 5,
+      "nome": "Fermento"
+    },
+    {
+      "id": 6,
+      "nome": "Carne"
+    },
+    {
+      "id": 7,
+      "nome": "Arroz"
+    },
+    {
+      "id": 8,
+      "nome": "Sal e temperos"
+    },
+    {
+      "nome": "apim/mandioca/macaxeira",
+      "id": 9
+    },
+    {
+      "nome": "apim/mandioca/macaxeira",
+      "id": 10
+    },
+    {
+      "nome": "apim/mandioca/macaxeira",
+      "id": 11
+    },
+    {
+      "nome": "limão taiti",
+      "id": 12
+    },
+    {
+      "nome": "beterraba",
+      "id": 13
+    },
+    {
+      "nome": "quiabo",
+      "id": 14
+    },
+    {
+      "nome": "leite",
+      "id": 15
+    },
+    {
+      "nome": "vinho tinto",
+      "id": 16
+    }
+  ]
+}
